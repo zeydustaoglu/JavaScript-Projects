@@ -141,4 +141,4 @@ function createAndAppend(child,append,text,className,srcOfimg,href){
 }
 const footer=createAndAppend('footer',mainDiv,null,'footer')
 // const books=renderList(BookList,"footer",BookListOutput)
-const footertext=createAndAppend('a',footer,'Designed by Zeyd | 2019','link')
+const footertext=createAndAppend('a',footer,'Designed by Zeyd | 2019','link',"#")
